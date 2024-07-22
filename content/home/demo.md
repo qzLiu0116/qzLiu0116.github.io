@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Network Science | Qingzhao Liu
-subtitle: 网络科学 ｜ 刘清朝
+title: Control Engineering | Qingzhao Liu
+subtitle: 控制工程 ｜ 刘清朝
 
 design:
   columns: "1"
