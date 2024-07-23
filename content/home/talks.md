@@ -4,13 +4,13 @@
 widget: pages
 
 # Activate this widget? true/false
-active: false
+active: fallse
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Talks
 subtitle:
@@ -40,5 +40,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
 ---

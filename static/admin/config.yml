@@ -203,9 +203,9 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Abstract", name: "abstract", widget: "text"}
       - {label: "Where", name: "location", widget: "text"}
-      - {label: "From", name: "date", widget: "datetime"}
-      - {label: "To", name: "date_end", widget: "datetime", default: ""}
-      - {label: "All day event?", name: "all_day", widget: "boolean", default: false}
+      # - {label: "From", name: "date", widget: "datetime"}
+      # - {label: "To", name: "date_end", widget: "datetime", default: ""}
+      # - {label: "All day event?", name: "all_day", widget: "boolean", default: false}
       - label: Links/Tickets
         name: links
         required: false
