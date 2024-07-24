@@ -37,7 +37,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "media/video/wrzf.mp4"
+url_video: "media/video/dt.mp4"
 
 
 
