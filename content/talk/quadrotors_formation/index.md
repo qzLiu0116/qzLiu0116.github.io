@@ -11,8 +11,8 @@ summary: The development of the formation keeping and transformation algorithm f
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-03-01"
-date_end: "2024-04-20"
+date: "2022-03-01"
+date_end: "2022-07-01"
 all_day: true
 
 draft: false
