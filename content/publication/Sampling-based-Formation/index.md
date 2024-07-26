@@ -2,6 +2,10 @@
 title: "Sampling-Based Hierarchical Trajectory Planning for Formation Flight"
 authors:
 - admin
+- Bailing Tian
+- Xuewei Zhang
+- Junjie Lu
+- Zhiyu Li
 
 date: "2024-07-22"
 doi: ""
