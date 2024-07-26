@@ -30,10 +30,6 @@ featured: false
 
 
 links:
-- icon_pack: 
-  icon: 
-  name: "Bilibili"
-  url: https://www.bilibili.com/video/BV1vc41147Df/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=e060cbe71c18d308e963782a155bf798
 url_code: ""
 url_pdf: ""
 url_slides: ""
