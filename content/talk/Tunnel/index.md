@@ -34,7 +34,7 @@ featured: false
 links:
 - icon_pack: 
   icon: 
-  name: "Youtebe"
+  name: "Youtube"
   url: https://www.youtube.com/watch?v=65ZqeehjVEM&t=38s&ab_channel=lldddl
 url_code: ""
 url_pdf: ""
