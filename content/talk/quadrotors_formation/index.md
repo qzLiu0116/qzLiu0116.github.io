@@ -1,12 +1,12 @@
 ---
-title: Coaxial Drone Formation Maintenance and Formation Transformation
+title: Quadrotor Drones Formation Flight
 # event: NetSci 2022
 
 
 # location: Tianjin (Online)
 
 
-summary: The development of the formation keeping and transformation algorithm for Coaxial Drone.
+summary: The development of the formation keeping and transformation algorithm for quadrotor drones.
 
 
 # Talk start and end times.

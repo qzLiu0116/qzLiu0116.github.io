@@ -24,9 +24,10 @@ organizations:
 bio: My research interests include Motion Planning for Multi-UAVs, Formation Contronl and the application of behaviour tree.
 
 interests:
-- Motion Planning
+- Motion Planning For UAV
 - Formation Control
 - Behavior Tree
+- Robots
 
 
 education:
