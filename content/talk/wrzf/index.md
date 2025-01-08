@@ -1,12 +1,12 @@
 ---
-title: The Third Air Force "Unmanned Vanguard" Intelligent Swarm System Challenge
+title: The Third "Unmanned Vanguard" Intelligent Swarm System Challenge
 # event: NetSci 2022
 
 
 # location: Tianjin (Online)
 
 
-summary: A distributed quadrotor-fixed-wing Intelligent Collaborative System for searching and striking in an area.
+summary: A distributed quadrotor-fixed-wing Intelligent Collaborative System for searching and collaborative flight in an area.
 
 
 # Talk start and end times.

@@ -43,4 +43,4 @@ math: true
 
 ## Project Overview:
 
-Considering the safety formation requirements of swarm UAVs, the trajectory planning and control technology of multi-UAV formations is developed. The key goal of the project is to realize autonomous swarm flight of 12 UAVs in an outdoor GPS environment, which can complete tasks including formation change, autonomous patrol, and coordinated strike.
+Considering the safety formation requirements of swarm UAVs, the trajectory planning and control technology of multi-UAV formations is developed. The key goal of the project is to realize autonomous swarm flight of 12 UAVs in an outdoor GPS environment, which can complete tasks including formation change, autonomous patrol, and coordinated flight.

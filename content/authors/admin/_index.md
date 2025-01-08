@@ -90,7 +90,6 @@ user_groups:
 
 I am **Qingzhao Liu (刘清朝)**, a master student at the [School of Electrical and Information Engineering](https://seea.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/), advised by Prof. Bailing Tian.
 
-My primary research interests include Motion Planning for Multi-UAVs, Formation Control and the application of Behavior tree in UAV system. Besides, I am interested in Autonomous Driving and I start to learn some basic knowleage about it recently. 
-If you have any academic problems or seeking any form of cooperation, please feel free to email me at qz\_liu@tju.edu.cn :smiley:
+My primary research interests include Motion Planning for Multi-UAVs, Formation Control and the application of Behavior tree in UAV system. If you have any academic problems or seeking any form of cooperation, please feel free to email me at qz\_liu@tju.edu.cn :smiley:
 
-I am looking for a Ph.D. position in relative area. 
+I am looking for a Ph.D. position in the relative area. 
