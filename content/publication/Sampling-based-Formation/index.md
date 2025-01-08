@@ -27,7 +27,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: "Formation flight of unmanned aerial vehicles (UAVs) poses significant challenges in terms of safety and formation keeping, particularly in cluttered environments. However, existing methods often struggle to simultaneously satisfy these two critical requirements. To address this issue, this paper proposes a sampling-based trajectory planning method with a hierarchical structure for formation flight in dense obstacle environments. To ensure reliable local sensing information sharing among UAVs, each UAV generates a safe flight corridor (SFC), which is transmitted to the leader UAV. Subsequently, a sampling-based formation guidance path generation method is designed as the front-end strategy, steering the formation to fly in the desired shape safely with the formation connectivity provided by the SFCs. Furthermore, a model predictive path integral (MPPI) based distributed trajectory optimization method is developed as the back-end part, which ensures the smoothness, safety and dynamics feasibility of the executable trajectory. To validate the efficiency of the developed algorithm, comprehensive simulation comparisons are conducted. The supplementary simulation video can be seen at https://www.youtube.com/watch?v=xSxbUN0tn1M."
+abstract: "Formation flight of unmanned aerial vehicles (UAVs) poses significant challenges in terms of safety and formation keeping, particularly in cluttered environments. However, existing methods often struggle to simultaneously satisfy these two critical requirements. To address this issue, this paper proposes a sampling-based trajectory planning method with a hierarchical structure for formation flight in dense obstacle environments. To ensure reliable local sensing information sharing among UAVs, each UAV generates a safe flight corridor (SFC), which is transmitted to the leader UAV. Subsequently, a sampling-based formation guidance path generation method is designed as the front-end strategy, steering the formation to fly in the desired shape safely with the formation connectivity provided by the SFCs. Furthermore, a model predictive path integral (MPPI) based distributed trajectory optimization method is developed as the back-end part, which ensures the smoothness, safety and dynamics feasibility of the executable trajectory. To validate the efficiency of the developed algorithm, comprehensive simulation comparisons are conducted. The supplementary simulation video can be seen at https://www.youtube.com/watch?v=W2hXrjhl864."
 
 # Summary. An optional shortened abstract.
 summary:  "**Submitted to IEEE Transactions on Intelligent Transportation Systems(T-ITS)**. A sampling-based trajectory planning method with a hierarchical structure for formation flight in dense obstacle environments is developed. "
@@ -44,7 +44,7 @@ links:
 - icon_pack: 
   icon: 
   name: "YouTube"
-  url: https://www.youtube.com/watch?v=xSxbUN0tn1M
+  url: https://www.youtube.com/watch?v=W2hXrjhl864
 url_pdf: https://arxiv.org/pdf/2407.17392
 url_source: ''
 url_code: 
