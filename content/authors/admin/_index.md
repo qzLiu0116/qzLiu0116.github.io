@@ -10,31 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Master
+role: Phd
 
 
 # Organizations/Affiliations
 organizations:
-- name: Tianjin University 
+- name: The Hong Kong University of Science and Technology (Guangzhou) 
   url: ""
 # - name: AirLab
 #   url: "https://linyuanlab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Motion Planning for Multi-UAVs, Formation Contronl and the application of behaviour tree.
+bio: My research interests include Motion Planning for Multi-UAVs, Formation Contronl and autonomous driving with learning-based method like VLA model.
 
 interests:
 - Motion Planning For UAV
 - Formation Control
-- Behavior Tree
-- Robots
+- Autonomous driving
+
 
 
 education:
   courses:
-  - course: Studing in Control Engineering
+  - course: Robotics and Autonomous Systems
+    institution: The Hong Kong University of Science and Technology (Guangzhou)
+    year: 2025.09-Present
+  - course: Control Engineering
     institution: Tianjin University
-    year: 2022.09-present
+    year: 2022.09-2025.06
   - course: Automation
     institution: Tianjin University
     year: 2018.09-2022.06
@@ -75,7 +78,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "qz_liu@tju.edu.cn"
+email: "qliu910@connect.hkust-gz.edu.cn"
 
 
 # Highlight the author in author lists? (true/false)
@@ -87,9 +90,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am **Qingzhao Liu (刘清朝)**, a phd student at the Robotics and Autonomous Systems, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn%E7%A7%91%E5%B9%BF%E6%96%B0%E9%97%BB), advised by [Prof. Jun Ma](https://personal.hkust-gz.edu.cn/junma/people-page.html).
 
-I am **Qingzhao Liu (刘清朝)**, a master student at the [School of Electrical and Information Engineering](https://seea.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/), advised by Prof. Bailing Tian.
+My primary research interests include Motion Planning for Multi-UAVs, Formation Control and autonomous driving. If you have any academic problems or seeking any form of cooperation, please feel free to email me at qliu910@connect.hkust-gz.edu.cn :smiley:
 
-My primary research interests include Motion Planning for Multi-UAVs, Formation Control and the application of Behavior tree in UAV system. If you have any academic problems or seeking any form of cooperation, please feel free to email me at qz\_liu@tju.edu.cn :smiley:
-
-I am looking for a Ph.D. position in the relative area. 

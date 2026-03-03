@@ -88,13 +88,13 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "qz_liu@tju.edu.cn"
+email = "qliu910@connect.hkust-gz.edu.cn"
 #phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 #address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
-address = { region = "Tianjin University",  country = "China"}
+address = { region = "The Hong Kong University of Science and Technology (Guangzhou)",  country = "China"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

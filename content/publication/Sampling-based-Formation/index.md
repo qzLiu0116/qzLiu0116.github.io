@@ -39,8 +39,8 @@ featured: true
 links:
 - icon_pack: 
   icon: 
-  name: Preprint
-  url: 'https://arxiv.org/abs/2407.17392'
+  name: IEEE link
+  url: 'https://ieeexplore.ieee.org/document/11000365'
 - icon_pack: 
   icon: 
   name: "YouTube"

@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Control Engineering | Qingzhao Liu
-subtitle: 控制工程 ｜ 刘清朝
+title: Robotics and Autonomous Systems | Qingzhao Liu
+subtitle: 机器人与自主系统 ｜ 刘清朝
 
 design:
   columns: "1"
